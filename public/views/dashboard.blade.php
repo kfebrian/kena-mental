@@ -12,10 +12,6 @@
                     {{ __("You're logged in!") }}
                 </div>
             </div>
-            <h1 class="bg-white overflow-hidden shadow-sm sm:rounded-lg">test</h1>
         </div>
-
     </div>
-
-    
 </x-app-layout>
