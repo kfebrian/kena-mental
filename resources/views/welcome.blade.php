@@ -145,7 +145,145 @@
             <div class="row no-padding-bottom clearfix">
 
 
-               
+                <!--Introduction-->
+        <section id="about" class="introduction scrollto">
+
+            <div class="row clearfix">
+
+                <div class="col-3">
+                    <div class="section-heading">
+                        <h3>Masalah Mental</h3>
+                        <h2 class="section-title">Kenali Masalah Mental Yang Kerap Terjadi</h2>
+                        <p class="section-subtitle">Mental illness (mental disorder), disebut juga dengan gangguan mental atau jiwa,
+                             adalah kondisi kesehatan yang memengaruhi pemikiran, perasaan, 
+                            perilaku, suasana hati, atau kombinasi diantaranya. Kondisi ini dapat terjadi sesekali 
+                            atau berlangsung dalam waktu yang lama (kronis).</p>
+                    </div>
+
+                </div>
+
+                <div class="col-2-3">
+
+                    <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
+                        <!--Icon-->
+                        <div class="icon">
+                            <i class="fa fa-heart fa-2x"></i>
+                        </div>
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4>Gangguan kecemasan</h4>
+                            <p>Orang dengan masalah kecemasan akan memberikan respons terhadap sesuatu secara 
+                                berlebihan. Berlebihan ini lebih ke arah negatif, seperti ketakutan, 
+                                kekhawatiran, hingga hal-hal lain yang mungkin berhubungan kepada kematian.</p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
+
+                    <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.3s">
+                        <!--Icon-->
+                        <div class="icon">
+                            <i class="fa fa-comment fa-2x"></i>
+                        </div>
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4>Skizofrenia</h4>
+                            <p>Gangguan skizofrenia termasuk ke dalam gangguan psikotik yang membuat orang seperti melihat atau merasakan sesuatu.
+                                 Saat mengidap gangguan skizofrenia, seseorang sulit membedakan mana kehidupan yang nyata dan mimpi.</p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
+
+                    <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+                        <!--Icon-->
+                        <div class="icon">
+                            <i class="fa fa-repeat fa-2x"></i>
+                        </div>
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4>Obsessive-compulsive disorder (OCD)</h4>
+                            <p>Orang dengan OCD cenderung melakukan hal 
+                                yang sama berulang-ulang hingga kadang merepotkan untuk diri sendiri. Beberapa orang menganggap hal tersebut menjadi 
+                                sebuah ritual sakral yang membuatnya menjadi terganggu saat tidak melakukannya.</p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
+
+                    <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+                        <!--Icon-->
+                        <div class="icon">
+                            <i class="fa fa-frown-o fa-2x"></i>
+                        </div>
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4>Attention Deficit Hyperactivity Disorder (ADHD)</h4>
+                            <p>Kondisi ini membuat seseorang sulit fokus, impulsive, dan hiperaktif. 
+                                Tidak jarang gangguan ini mempengaruhi aktivitas harian. Penyebab ADHD sebenarnya belum diketahui secara pasti. 
+                                Namun, banyak pendapat yang menyebutkan bahwa gangguan ini diturunkan oleh faktor genetik.</p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
+
+                </div>
+
+            </div>
+
+
+        </section>
+        <!--End of Introduction-->
+
+        
+        <!--Content Section-->
+        <div id="services" class="scrollto clearfix">
+
+            <div class="row no-padding-bottom clearfix">
+
+
+                <!--Content Left Side-->
+                <div class="col-3">
+                    <!--User Testimonial-->
+                    <blockquote class="testimonial text-right bigtest">
+                        <q>Beberapa pertempuran terbesar akan terjadi di dalam ruang sunyi jiwa Anda sendiri.</q>
+                        <footer>— Ezra Taft Benson</footer>
+                    </blockquote>
+                    <!-- End of Testimonial-->
+
+                </div>
+                <!--End Content Left Side-->
+
+                <!--Content of the Right Side-->
+                <div class="col-3">
+                    <div class="section-heading">
+                        <h3>BELIEVING</h3>
+                        <h2 class="section-title">Cegah Masalah Mental</h2>
+                        <p class="section-subtitle">Mulai dengan hal yang sederhana, seperti melakukan aktivitas fisik sederhana, tertawa, 
+                            mengobrol dengan orang dekat sampai memiliki tidur yang cukup
+                        </p>
+                    </div>
+                    <p>Selain penanganan medis dengan bantuan psikolog atau psikiater, pengidap juga bisa melakukan perawatan mandiri untuk mengatasi gangguan kesehatan mental.
+
+                        Misalnya, mengubah pola hidup dan pola makan sehat, dan mampu mengelola stres dengan baik. 
+                    </p>
+                    <p>
+                        Jika diri sendiri atau kerabat menunjukkan gejala masalah kesehatan jiwa secara terus-menerus dan tidak membaik, 
+                        sebaiknya segera lakukan pemeriksaan ke dokter spesialis jiwa atau psikiater untuk mendapatkan pemeriksaan dan penanganan lebih lanjut.
+                    </p>
+                    <!-- Just replace the Video ID "UYJ5IjBRlW8" with the ID of your video on YouTube (Found within the URL) -->
+                </div>
+                <!--End Content Right Side-->
+
+                <div class="col-3">
+                    <img src="images/dancer-2.png" alt="Dancer"/>
+                </div>
+
+            </div>
+
+
+        </div>
+        <!--End of Content Section-->
 
         <!--Testimonials-->
         <aside id="testimonials" class="scrollto text-center" data-enllax-ratio=".2">
@@ -159,31 +297,29 @@
 
                 <!--User Testimonial-->
                 <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-1.jpg" alt="User"/>
-                    <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua</q>
-                    <footer>John Doe - Happy Customer</footer>
+                    <img src="images/user-images/user-1.png" alt="User"/>
+                    <q>Dokter dengan pengalaman lebih dari 10 tahun, 
+                        aktif di berbagai rumah sakit dan klinik, fokus pada diagnosis dini, pengobatan efektif, dan perawatan holistik.</q>
+                    <footer>Emily Rodriguez</footer>
+                </blockquote>
+                <!-- End of Testimonial-->
+                
+                <!--User Testimonial-->
+                <blockquote class="col-3 testimonial classic">
+                    <img src="images/user-images/user-3.png" alt="User"/>
+                    <q>Dokter psikolog dengan pengalaman klinis lebih dari 8 tahun,
+                         berfokus pada membantu individu mengatasi tantangan mental dan emosional.
+                         Keterampilan mencakup pemeriksaan psikologis, terapi kognitif perilaku, dan manajemen stres</q>
+                    <footer>Benjamin Davis</footer>
                 </blockquote>
                 <!-- End of Testimonial-->
 
                 <!--User Testimonial-->
                 <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-2.jpg" alt="User"/>
-                    <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua</q>
-                    <footer>Roslyn Doe - Happy Customer</footer>
-                </blockquote>
-                <!-- End of Testimonial-->
-
-                <!--User Testimonial-->
-                <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-3.jpg" alt="User"/>
-                    <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua</q>
-                    <footer>Thomas Doe - Happy Customer</footer>
+                    <img src="images/user-images/user-2.png" alt="User"/>
+                    <q>Berpengalaman di bidang klinis, penelitian dan pendidikan kesehatan mental. 
+                        Berkomitmen pada pengembangan ilmu kedokteran serta berbagi pengetahuan tentang masalah mental. </q>
+                    <footer>Alexander Williams</footer>
                 </blockquote>
                 <!-- End of Testimonial-->
 
